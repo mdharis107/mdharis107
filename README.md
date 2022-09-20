@@ -14,6 +14,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdharis107&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdharis107&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdharis107)  
+
+![GitHub metrics](https://metrics.lecoq.io/mdharis107)  
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdharis107&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
