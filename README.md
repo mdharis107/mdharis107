@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdharis107)
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdharis107&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdharis107&layout=compact&theme=radical)  
 <br>
 
 ![GitHub metrics](https://metrics.lecoq.io/mdharis107)  
