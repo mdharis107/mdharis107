@@ -21,10 +21,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdharis107&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdharis107&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdharis107)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdharis107&layout=compact&theme=radical)
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdharis107&layout=compact&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdharis107)  
 <br>
 
 ![GitHub metrics](https://metrics.lecoq.io/mdharis107)  
