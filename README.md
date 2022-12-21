@@ -3,7 +3,7 @@
 
 <div>
 
-# 💫 About Me :
+# 💫 About Me 
 👋 Hi, I’m @Mohamed Haris<br>🌍 I am from Tamil Nadu, Salem<br>🌱 I'm a Full Stack Web Developer skilled in MERN stack<br>💞 I’m always open to work on collaborative projects<br>💁‍♂️ My portfolio -https://mdharis107.github.io/
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="50%"  />
