@@ -35,5 +35,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=mdharis107&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdharis107&icon=9&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mdharis107&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
